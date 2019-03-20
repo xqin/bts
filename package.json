@@ -1,10 +1,10 @@
 {
-  "name": "bts",
+  "name": "clm",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/bthaha.js",
+  "main": "bin/clm.js",
   "bin": {
-    "bts": "bin/bthaha.js"
+    "clm": "bin/clm.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
